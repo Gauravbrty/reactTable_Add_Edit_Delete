@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Gaurav",
+      "address": "Banaswadi 13th main road ",
+      "phoneNumber": "8967896767",
+      "email": "gaurav@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "dilip kr. singh",
+      "address": "vaishali bihar",
+      "phoneNumber": "9090787856",
+      "email": "dilip@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony",
+      "address": "ram road, london",
+      "phoneNumber": "90778907878",
+      "email": "tonyram@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "ganesha",
+      "address": "kailash parvat",
+      "phoneNumber": "7878786767",
+      "email": "ganesh@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Krishna",
+      "address": "krishna road california",
+      "phoneNumber": "8967896799",
+      "email": "krishna@email.com"
+    }
+  ]
